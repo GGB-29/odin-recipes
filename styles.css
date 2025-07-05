@@ -1,0 +1,21 @@
+html {
+    background-color: #FAF7F0;
+    text-align: center;
+}
+h1 {
+    color: #B7282E;
+    font-family: "Noto Serif JP", "Georgia", serif;
+}
+body {
+    color: #4A4A4A;
+    font-family: "Noto Sans JP", "Hiragino Kaku Gothic Pro", "Yu Gothic", "Helvetica Neue", sans-serif;
+
+}
+
+.list-title, ul, ol{
+    text-align: left;
+}
+a {
+    color: #B7282E;
+    text-decoration: none;
+}
