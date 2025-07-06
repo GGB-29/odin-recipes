@@ -29,3 +29,9 @@ a {
     margin: auto;
     background-color: white;
 }
+
+#sakura {
+    display: block;
+    margin: 0 0 auto auto;
+
+}
