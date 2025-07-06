@@ -19,3 +19,13 @@ a {
     color: #B7282E;
     text-decoration: none;
 }
+
+.home{
+    font-weight: bold;
+    display: block;
+    width: 80px;
+    padding: 1px;
+    border: 1px solid #B7282E;
+    margin: auto;
+    background-color: white;
+}
